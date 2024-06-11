@@ -33,8 +33,6 @@ MHc013789-
 MH8416c4d0-
 #noname
 MHb4f5ccb7-
-#grosmurah
-MHec3be6f-
 #faj
 MHca59087-
 #sodiq
