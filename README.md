@@ -28,14 +28,9 @@ MH6556ca6d-
 MH1036febe-
 #eva
 MH9235c23c-
-#bam
-MHc013789-
-MH8416c4d0-
 #noname
 MHb4f5ccb7-
 #faj
 MHca59087-
 #sodiq
 MH3ff1cc9f-
-#glo
-MHa1e1885-
