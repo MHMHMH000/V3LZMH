@@ -32,10 +32,3 @@ MHbfd6ec3-
 #noname
 MHb4f5ccb7-
 MHca5f1ed-
-#SODIQ
-MH3ff1cc9f-
-#JOKO
-MH2c16509-
-#A1
-MH43b116cc-
-MH2d58a36-
